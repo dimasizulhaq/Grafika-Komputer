@@ -1,6 +1,4 @@
-# Nama  : Wahid Amin Samsudin
-# NIM   : 20051397077
-# Praktikum 1 Grafika Komputer
+
 
 from OpenGL.GL import *
 from OpenGL.GLU import *
